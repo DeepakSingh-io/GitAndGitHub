@@ -1,4 +1,4 @@
-Anthropic sonnet and opus is better for coding.
+Anthropic sonnet and opus are the best for coding.
 
 for running any model offline on our own system we must require llm engine.
 
