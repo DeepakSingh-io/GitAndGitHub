@@ -1,8 +1,5 @@
-file 2 for my git practice
+Anthropic sonnet and opus is better for coding.
 
-adding more content to file
+for running any model offline on our own system we must require llm engine.
 
-this third time few change in git 
-
-
-hello world at line eight 
+ollama llm engine is most used and have multiple free models that required zero tokens.
